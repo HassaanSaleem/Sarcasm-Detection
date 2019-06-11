@@ -1,6 +1,6 @@
 # IR-Sarcasm-Detection-
 
-This Project was made on Jupyter Notebook.
+This Project was made on Jupyter Notebook and Sarcasm_Headlines_Dataset.json data set is used. See Report for more details 
 
 There are two files namely IR-Sarcasm Detection(Test).ipynb and Sarcasm Detection.ipynb
 
@@ -10,3 +10,10 @@ There are two files namely IR-Sarcasm Detection(Test).ipynb and Sarcasm Detectio
 
 2- Sarcasm Detection.ipynb: This is final file in  which the code is in modular form and only the final output of the model is displayed.
                             Avg Execution time: 3 hr              
+                            
+                            
+                            
+                            
+# Acknowledgements
+This dataset was collected from TheOnoin and HuffPost. 
+https://rishabhmisra.github.io/publications/
