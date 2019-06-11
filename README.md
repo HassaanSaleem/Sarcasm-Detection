@@ -1,5 +1,6 @@
 # IR-Sarcasm-Detection-
 
+## Accuracy: 76.92%
 This Project was made on Jupyter Notebook and Sarcasm_Headlines_Dataset.json data set is used. See Report for more details 
 
 There are two files namely IR-Sarcasm Detection(Test).ipynb and Sarcasm Detection.ipynb
